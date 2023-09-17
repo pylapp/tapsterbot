@@ -1,0 +1,12 @@
+/.dev/ @pylapp
+/calibration/android/ @pylapp
+/calibration/capabilities/ @pylapp
+/calibration/ios/ @penguinho
+/clients/android/ @pylapp
+/clients/chatbot-snips/ @pylapp
+/clients/python/ @pylapp
+/clients/robotframework/ @pylapp
+/clients/web/ @pylapp
+/doc/ @pylapp
+/hardware/ @hugs
+/software/ @hugs @pylapp
