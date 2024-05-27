@@ -17,7 +17,7 @@ The project has been spotted here:
 - [Why not Tapster?](https://speakerdeck.com/pylapp/why-not-tapster) 
 - [Tapsterbot - What movie should I see tonight](https://tube.seditio.fr/videos/watch/48bde32b-76b5-4d3b-8b94-2f6a3e4b391b)
 - [Tapsterbot - Talking to it with Snips](https://tube.seditio.fr/videos/watch/81be56b0-2f1e-4eae-a379-7a769ccca9ce)
-- [Tapster — Robot as a Service 🤖](https://paper.wf/pylapp/tapster-robot-as-a-service)
+- [Tapster — Robot as a Service 🤖](https://write.as/pylapp/tapster-robot-as-a-service)
 - [Tapster - Robotic Test Automation](https://es.linkedin.com/pulse/tapster-robotic-test-automation-jose-pablo-sarco)
 
 # Tapster - Mobile Automation Robot
