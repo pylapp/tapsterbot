@@ -1,6 +1,6 @@
 [![MIT or BSD 2-Clause](https://img.shields.io/github/license/pylapp/tapsterbot?style=for-the-badge)](https://github.com/pylapp/tapsterbot/tree/master/licenses)
 [![Versions](https://img.shields.io/github/v/release/pylapp/tapsterbot?label=Last%20version&style=for-the-badge)](https://github.com/pylapp/tapsterbot/releases)
-[![Not maintained anymore](https://img.shields.io/maintenance/no/2020?style=for-the-badge)](https://github.com/pylapp/tapsterbot/issues?q=is%3Aissue+is%3Aclosed)
+[![Not maintained anymore](https://img.shields.io/maintenance/no/2018?style=for-the-badge)](https://github.com/pylapp/tapsterbot/issues?q=is%3Aissue+is%3Aclosed)
 
 # Important notice
 
