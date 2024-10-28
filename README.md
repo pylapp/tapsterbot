@@ -6,10 +6,11 @@
 
 This GitHub repository is a fork of the original [Jason Huggin's tapsterbot](https://github.com/hugs/tapsterbot) project.
 It contains also improvements (direct or not) from [Dan Cuellar's fork](https://github.com/penguinho/tapsterbot).
-Some part of this project have been implemented by myself in my leasure time or work time [Orange], see sources headers for more details.
+Some part of this project have been implemented by myself in my leasure time.
+A fork on [Orange-OpenSource exists](https://github.com/Orange-OpenSource/tapsterbot).
 
 Several years ago, I noticed the Git history was crappy and fucked up.
-Thee were some data leaks, wrong email address was used, got a lot of spam, commits links to the GitHub account's were not created because of bad pseudo... No DCO, no GPG-signing, too heavy files were versioned...
+There were some data leaks, wrong email address was used, got a lot of spam, commits links to the GitHub account's were not created because of bad pseudo... No DCO, no GPG-signing, too heavy files were versioned...
 It was a big mess. Trials to clean the history failed, that is the reason why the project was deleted and created again.
 Yep, newbie failure between 2016 and 2019, don't remember well. I am not proud at all, and that case is a "good" example for my students (>_<)
 
@@ -71,4 +72,4 @@ This fork has been made so as to build a community around Tapster and bring new 
 If you want to contact me, please use the appropriate email in the AUTHORS file.
 
 
-This Tapster (Tapster model 2) is free, open source et open hardware, so feel free to contribute!
+This Tapster (Tapster model 2) is free, open source and open hardware, so feel free to contribute!
